@@ -547,18 +547,6 @@ Database menggunakan MySQL dengan beberapa tabel utama:
 13. Performance optimization
 14. Admin laporan dashboard
 
-## 📞 Support
-
-Untuk development lanjutan atau troubleshooting:
-1. Check console logs untuk error details
-2. Verify database connection
-3. Ensure camera & location permissions granted
-4. Check network connectivity
-
-## 📄 License
-
-Project ini dibuat untuk keperluan edukasi dan pembelajaran.
-
 ---
 
 **Last Updated:** December 2025  
